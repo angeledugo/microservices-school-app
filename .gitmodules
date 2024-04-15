@@ -1,0 +1,3 @@
+[submodule "microservices-eureka"]
+	path = microservices-eureka
+	url = https://github.com/angeledugo/microservices-eureka
