@@ -4,3 +4,12 @@
 [submodule "microservices-student"]
 	path = microservices-student
 	url = https://github.com/angeledugo/microservices-student
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/angeledugo/gateway
+[submodule "microservices-teacher"]
+	path = microservices-teacher
+	url = https://github.com/angeledugo/microservices-teacher
+[submodule "microservices-nota"]
+	path = microservices-nota
+	url = https://github.com/angeledugo/microservices-nota
