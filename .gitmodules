@@ -1,3 +1,6 @@
 [submodule "microservices-eureka"]
 	path = microservices-eureka
 	url = https://github.com/angeledugo/microservices-eureka
+[submodule "microservices-student"]
+	path = microservices-student
+	url = https://github.com/angeledugo/microservices-student
